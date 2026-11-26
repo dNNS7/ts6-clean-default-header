@@ -1,0 +1,23 @@
+{
+  "name": "Clean Default Header",
+  "description": "Default look in TeamSpeak 6 without the floating server header bar.",
+  "version": "1.0.0",
+  "identifier": "com.legendsts.cleanheader",
+  "engines": {
+    "teamspeak": 1
+  },
+  "repository": "https://example.invalid/cleanheader",
+  "license": "MIT",
+  "author": "Dennis",
+  "image": "preview.png",
+  "content": {
+    "themes": [
+      {
+        "name": "Clean Default (No Header)",
+        "source": "style.css",
+        "image": "preview.png",
+        "apiVersion": 1
+      }
+    ]
+  }
+}

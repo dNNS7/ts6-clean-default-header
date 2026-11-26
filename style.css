@@ -1,0 +1,4 @@
+/* Blendet nur die Server-Kopfleiste aus */
+.ts-server-header {
+  display: none !important;
+}
